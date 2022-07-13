@@ -1,6 +1,13 @@
 # think-addons
 The ThinkPHP 6 Addons Package
 
+# 说明
+
+[zz-studio/think-addons](https://github.com/zz-studio/think-addons)
+
+[插件视图模板路径问题](https://github.com/zz-studio/think-addons/issues/14)
+
+
 ## 安装
 > composer require zzstudio/think-addons
 
