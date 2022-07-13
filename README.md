@@ -3,8 +3,10 @@ The ThinkPHP 6 Addons Package
 
 # 说明
 
+项目来自：
 [zz-studio/think-addons](https://github.com/zz-studio/think-addons)
 
+问题修复来自:
 [插件视图模板路径问题](https://github.com/zz-studio/think-addons/issues/14)
 
 
